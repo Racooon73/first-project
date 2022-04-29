@@ -1,5 +1,5 @@
 class Praktikum {
-public static void main(args{}){
+public static void main(args[]){
 
 }
 }
